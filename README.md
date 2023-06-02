@@ -36,11 +36,7 @@ This research was funded by the Dutch Research Council, as part of the project â
 ## Conflicts of Interest
 None declared
 
- 
-
- 
-
-##References
+## References
 1) Johnson AE, Pollard TJ, Shen L, Lehman LW, Feng M, Ghassemi M, Moody B, Szolovits P, Anthony Celi L, Mark RG. MIMIC-III, a freely accessible critical care database. Scientific data. 2016 May 24;3(1):1-9.
 2) Stenetorp P, Pyysalo S, TopiÄ‡ G, Ohta T, Ananiadou S, Tsujii JI. BRAT: a web-based tool for NLP-assisted text annotation. InProceedings of the Demonstrations at the 13th Conference of the European Chapter of the Association for Computational Linguistics 2012 Apr (pp. 102-107).
 3) Sushil M, Butte AJ, Schuit E, van Smeden M, Leeuwenberg AM. Cross-institution text mining to uncover clinical associations: a case study relating social factors and code status in intensive care medicine. arXiv preprint arXiv:2301.06570. 2023 Jan 16.
