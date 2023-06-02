@@ -24,6 +24,9 @@ This format contains one annotated mention per row. Per row first an event id is
 
 The actual discharge summaries are not in this repository. The file names correspond to the EVENTROWID of the MIMIC-III (Version: 1.4) NOTEEVENTS table, and can in this way be linked to the MIMIC-III discharge summaries (e.g., file 23327.ann corresponds to EVENTROWID 23327 in the NOTEEVENTS table).
 
+When using these data, please cite the original publication:
+- Sushil, Madhumita, et al. "Cross-institution text mining to uncover clinical associations: a case study relating social factors and code status in intensive care medicine." arXiv preprint arXiv:2301.06570 (2023).
+
 ## Release Notes
 Version 1 (initial upload).
 
