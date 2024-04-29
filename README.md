@@ -25,8 +25,8 @@ This format contains one annotated mention per row. Per row first an event id is
 The actual discharge summaries are not in this repository. The file names correspond to the EVENTROWID of the MIMIC-III (Version: 1.4) NOTEEVENTS table, and can in this way be linked to the MIMIC-III discharge summaries (e.g., file 23327.ann corresponds to EVENTROWID 23327 in the NOTEEVENTS table).
 
 When using these data, please cite the original publication:
-- Sushil, Madhumita, et al. "Cross-institution text mining to uncover clinical associations: a case study relating social factors and code status in intensive care medicine." arXiv preprint arXiv:2301.06570 (2023).
-
+- Sushil M, Butte AJ, Schuit E, van Smeden M, Leeuwenberg AM. [Cross-institution natural language processing for reliable clinical association studies: a methodological exploration](https://doi.org/10.1016/j.jclinepi.2024.111258). Journal of Clinical Epidemiology. 2024 Mar 1;167:111258.
+  
 ## Release Notes
 Version 1 (initial upload).
 
@@ -42,5 +42,5 @@ None declared
 ## References
 1) Johnson AE, Pollard TJ, Shen L, Lehman LW, Feng M, Ghassemi M, Moody B, Szolovits P, Anthony Celi L, Mark RG. MIMIC-III, a freely accessible critical care database. Scientific data. 2016 May 24;3(1):1-9.
 2) Stenetorp P, Pyysalo S, Topić G, Ohta T, Ananiadou S, Tsujii JI. BRAT: a web-based tool for NLP-assisted text annotation. InProceedings of the Demonstrations at the 13th Conference of the European Chapter of the Association for Computational Linguistics 2012 Apr (pp. 102-107).
-3) Sushil M, Butte AJ, Schuit E, van Smeden M, Leeuwenberg AM. Cross-institution text mining to uncover clinical associations: a case study relating social factors and code status in intensive care medicine. arXiv preprint arXiv:2301.06570. 2023 Jan 16.
+3) Sushil M, Butte AJ, Schuit E, van Smeden M, Leeuwenberg AM. Cross-institution natural language processing for reliable clinical association studies: a methodological exploration. Journal of Clinical Epidemiology. 2024 Mar 1;167:111258.
 4) Lybarger K, Yetisgen M, Uzuner Ö. The 2022 n2c2/UW Shared Task on Extracting Social Determinants of Health. arXiv preprint arXiv:2301.05571. 2023 Jan 13.
